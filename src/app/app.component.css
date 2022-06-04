@@ -1,0 +1,71 @@
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.input-text {
+    display: inline;
+    margin: 0;
+    border: none;
+    border-radius: 0.4rem;
+    padding: 10px;
+}
+.list ul li button{
+    position: absolute;
+    right: 0%;
+    background: #f345;
+    color: white !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    border-radius: 00.4rem;
+    display: inline-block;
+    border: none;
+
+}
+.add-btn {
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #737373;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 0.4rem;
+    display: inline-block;
+    border: none;
+
+}
+.app-title{
+    text-align: center;
+    color: #737373;
+    font-size: 70px;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+
+}
+.list ul li{
+    display: block;
+    width: 100%;
+    text-decoration: none;
+    color: #737373;
+    background-color: #fff;
+    line-height: 30px;
+    border-bottom-style: solid ;
+    padding: 10px;
+    position: relative;
+}
+.container{
+    color: #fff;
+    max-width: 500px;
+    margin: auto;
+}
+.add-btn:hover {
+    background-color: gray;
+}
+.list ul li button:hover{
+    background-color: red;
+}
